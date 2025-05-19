@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1744074613794" clover="3.2.0">
+  <project timestamp="1744074613794" name="All files">
+    <metrics statements="23" coveredstatements="17" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="3" elements="31" coveredelements="22" complexity="0" loc="23" ncloc="23" packages="1" files="3" classes="3"/>
+    <file name="NotificacaoService.js" path="C:\Users\Professor.SN-358647\Downloads\Arquivos\testes_integracao_jest\pedido_service_jest\classes\NotificacaoService.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="PagamentoService.js" path="C:\Users\Professor.SN-358647\Downloads\Arquivos\testes_integracao_jest\pedido_service_jest\classes\PagamentoService.js">
+      <metrics statements="7" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+    </file>
+    <file name="PedidoService.js" path="C:\Users\Professor.SN-358647\Downloads\Arquivos\testes_integracao_jest\pedido_service_jest\classes\PedidoService.js">
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="17" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

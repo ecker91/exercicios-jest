@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1744676954247" clover="3.2.0">
+  <project timestamp="1744676954247" name="All files">
+    <metrics statements="28" coveredstatements="12" conditionals="2" coveredconditionals="0" methods="7" coveredmethods="2" elements="37" coveredelements="14" complexity="0" loc="28" ncloc="28" packages="3" files="3" classes="3"/>
+    <package name="controllers">
+      <metrics statements="12" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="UsuarioController.js" path="C:\Users\fernando_ecker\aulas-2025-1\jest\usuario_service_jest\controllers\UsuarioController.js">
+        <metrics statements="12" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="models">
+      <metrics statements="5" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="Usuario.js" path="C:\Users\fernando_ecker\aulas-2025-1\jest\usuario_service_jest\models\Usuario.js">
+        <metrics statements="5" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="repositories">
+      <metrics statements="11" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="UsuarioRepository.js" path="C:\Users\fernando_ecker\aulas-2025-1\jest\usuario_service_jest\repositories\UsuarioRepository.js">
+        <metrics statements="11" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

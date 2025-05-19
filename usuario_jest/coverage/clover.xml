@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1744066476365" clover="3.2.0">
+  <project timestamp="1744066476365" name="All files">
+    <metrics statements="30" coveredstatements="30" conditionals="28" coveredconditionals="28" methods="6" coveredmethods="6" elements="64" coveredelements="64" complexity="0" loc="30" ncloc="30" packages="1" files="1" classes="1"/>
+    <file name="Usuario.js" path="C:\Users\fernando_ecker\aulas-2025-1\jest\usuario_jest\classes\Usuario.js">
+      <metrics statements="30" coveredstatements="30" conditionals="28" coveredconditionals="28" methods="6" coveredmethods="6"/>
+      <line num="3" count="14" type="stmt"/>
+      <line num="4" count="14" type="stmt"/>
+      <line num="5" count="14" type="stmt"/>
+      <line num="6" count="14" type="stmt"/>
+      <line num="7" count="14" type="stmt"/>
+      <line num="8" count="14" type="stmt"/>
+      <line num="9" count="14" type="stmt"/>
+      <line num="13" count="14" type="cond" truecount="8" falsecount="0"/>
+      <line num="14" count="6" type="stmt"/>
+      <line num="17" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="21" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="25" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="29" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="33" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="39" count="8" type="stmt"/>
+      <line num="40" count="8" type="stmt"/>
+      <line num="44" count="7" type="stmt"/>
+      <line num="45" count="7" type="stmt"/>
+      <line num="49" count="6" type="stmt"/>
+      <line num="50" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="51" count="3" type="stmt"/>
+      <line num="55" count="3" type="stmt"/>
+      <line num="56" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

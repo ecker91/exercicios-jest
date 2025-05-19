@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1743464956860" clover="3.2.0">
+  <project timestamp="1743464956860" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7" elements="15" coveredelements="15" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
+    <file name="GeometriaService.js" path="C:\Users\fernando_ecker\aulas-2025-1\jest\geometria_jest\classes\GeometriaService.js">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -1,0 +1,21 @@
+{
+  "name": "avaliacao_pratica",
+  "version": "1.0.0",
+  "description": "Avaliação Prática de Testes de Sistemas - Senai Florianópolis - 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node-fetch": "^2.6.12",
+    "avaliacao_pratica": "file:",
+    "eslint": "^9.26.0",
+    "node-fetch": "^3.3.2"
+  }
+}
